@@ -1,2 +1,3 @@
-# center_of_mass
-This ROS package provides the position of the center of mass of a robot and a RViz marker of it.
+This is a fork of:  https://github.com/bit-bots/center_of_mass
+
+I have addred wheel load as functionality
