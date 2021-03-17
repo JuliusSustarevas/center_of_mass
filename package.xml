@@ -15,12 +15,6 @@
   
   <depend>urdfdom_py</depend>
   <depend>rospy</depend>
-  <depend>bitbots_docs</depend>
 
-  <export>
-    <bitbots_documentation>
-      <language>python</language>
-      <status>unknown</status>
-    </bitbots_documentation>
-  </export>
+
 </package>
